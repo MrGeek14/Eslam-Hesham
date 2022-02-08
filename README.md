@@ -11,7 +11,7 @@
 
 5-Utilities contains test data class where read data from excel sheets
 
-5-testng.xml a configuration file to execute Test Scenarios
+6-testng.xml a configuration file to execute Test Scenarios
 
 **Automated Tests for Best Buy APIs Task:**
 
