@@ -1,0 +1,8 @@
+<suite name="Facebook Automated Tests">
+    <test name="sign up and login to facebook">
+        <classes>
+            <class name="Tests.RegisterNewUserTest"/>
+            <class name="Tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
